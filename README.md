@@ -1,8 +1,8 @@
 # Sakshat Patil
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/your-repo/ci.yml?branch=main)](https://github.com/sakshat-patil/your-repo/actions)  
-[![Coverage Status](https://img.shields.io/codecov/c/github/your-username/your-repo)](https://codecov.io/gh/sakshat-patil/your-repo)  
-[![License](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/sakshat-patil/blob/main/LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/sakshat-patil/your-repo/ci.yml?branch=main)](https://github.com/sakshat-patil/your-repo/actions)  
+[![Coverage Status](https://img.shields.io/codecov/c/github/sakshat-patil/your-repo)](https://codecov.io/gh/sakshat-patil/your-repo)  
+[![License](https://img.shields.io/github/license/sakshat-patil/your-repo)](https://github.com/your-username/sakshat-patil/blob/main/LICENSE)
 
 ## 📊 GitHub Stats
 
