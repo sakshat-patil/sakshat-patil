@@ -1,17 +1,16 @@
 # Sakshat Patil
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/your-repo/ci.yml?branch=main)](https://github.com/your-username/your-repo/actions)  
-[![Coverage Status](https://img.shields.io/codecov/c/github/your-username/your-repo)](https://codecov.io/gh/your-username/your-repo)  
-[![License](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/your-repo/blob/main/LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/your-repo/ci.yml?branch=main)](https://github.com/sakshat-patil/your-repo/actions)  
+[![Coverage Status](https://img.shields.io/codecov/c/github/your-username/your-repo)](https://codecov.io/gh/sakshat-patil/your-repo)  
+[![License](https://img.shields.io/github/license/your-username/your-repo)](https://github.com/your-username/sakshat-patil/blob/main/LICENSE)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshat-patil&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshat-patil&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshat-patil&theme=radical)
 
 ---
 
