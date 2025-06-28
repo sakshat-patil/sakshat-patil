@@ -10,7 +10,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshat-patil&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshat-patil&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sakshat-patil&theme=radical)
 
 ---
 
