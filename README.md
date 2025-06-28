@@ -1,20 +1,6 @@
 # Sakshat Patil
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/sakshat-patil/your-repo/ci.yml?branch=main)](https://github.com/sakshat-patil/your-repo/actions)  
-[![Coverage Status](https://img.shields.io/codecov/c/github/sakshat-patil/your-repo)](https://codecov.io/gh/sakshat-patil/your-repo)  
-[![License](https://img.shields.io/github/license/sakshat-patil/your-repo)](https://github.com/your-username/sakshat-patil/blob/main/LICENSE)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshat-patil&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshat-patil&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sakshat-patil&theme=radical)
-
----
-
-Welcome to my personal GitHub repository! I’m a Master of Science in Software Engineering (MSSE) candidate at San José State University with a passion for backend cloud development, distributed systems, and AI-driven applications. Here you’ll find a curated collection of my projects, experiments, and learning resources.
+I’m a Master of Science in Software Engineering (MSSE) candidate at San José State University with a passion for backend cloud development, distributed systems, and AI-driven applications.
 
 ## 🧑‍💻 About Me
 
@@ -38,6 +24,14 @@ An agentic AI system for early stroke detection and triage. It processes video/a
 ### GitTranslate  
 A podcast-to-text & multilingual translation pipeline that automatically converts audio episodes into text transcripts and translations using speech-to-text and transformer models.  
 🔗 [GitHub →](https://github.com/sakshat-patil/GitTranslate)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshat-patil&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshat-patil&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=sakshat-patil&theme=radical)
 
 ## 📚 Learning & Notes
 
