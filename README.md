@@ -4,7 +4,7 @@ I’m a Master of Science in Software Engineering (MSSE) candidate at San José 
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Education**: MSSE, San José State University (Class of 2026)  
+- 🎓 **Education**: MSSE, San José State University
 - 💼 **Experience**:  
   - 2.5+ years in cloud-based backend engineering (Reliance Jio)  
   - IEEE student member & volunteer  
