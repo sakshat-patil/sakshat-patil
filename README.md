@@ -59,4 +59,4 @@ A podcast-to-text & multilingual translation pipeline that automatically convert
 ## ✉️ Contact Me
 
 - 📧 Email: sakshatpatil25@gmail.com
-- 🌐 LinkedIn: [[kedin.com/in/sakshat-patil/](https://www.linkedin.com/in/sakshat-patil)](https://www.linkedin.com/in/sakshat-patil)  
+- 🌐 LinkedIn: [(https://www.linkedin.com/in/sakshat-patil)](https://www.linkedin.com/in/sakshat-patil)  
