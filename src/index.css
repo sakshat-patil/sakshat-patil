@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg: #FAF7F2;
+  --color-bg-dark: #F0EBE3;
+  --color-accent: #D46A3A;
+  --color-accent-dark: #B5552A;
+  --color-heading: #3B2314;
+  --color-body: #7A6B5D;
+  --color-card-bg: #FDFAF6;
+  --color-card-border: #E8DDD4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-body);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+/* Grain texture overlay */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1000;
+  opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+  background-repeat: repeat;
+}
+
+/* Hexagon clip-path */
+.hex-clip {
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+/* Timeline line */
+.timeline-line {
+  background: linear-gradient(to bottom, transparent, var(--color-accent) 10%, var(--color-accent) 90%, transparent);
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-terracotta text-white font-sans font-semibold px-6 py-2.5 rounded-full transition-all duration-300;
+  }
+  .btn-primary:hover {
+    @apply bg-terracotta-dark scale-105;
+  }
+
+  .card {
+    @apply bg-[#FDFAF6] border border-[#E8DDD4] rounded-2xl shadow-sm;
+  }
+
+  .section-heading {
+    @apply font-serif text-espresso;
+  }
+
+  .accent-text {
+    @apply text-terracotta font-sans font-semibold;
+  }
+}
